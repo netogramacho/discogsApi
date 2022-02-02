@@ -7,7 +7,7 @@
 </p>
 
 <div>
-  <img src="https://gramachodev.com.br/readmegit/app.png" alt="demo-web" height="425">
+  <img src="https://gramachodev.com.br/assets/readmegit/app.png" alt="demo-web" height="425">
 </div>
 
 <hr />
