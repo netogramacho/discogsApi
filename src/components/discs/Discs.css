@@ -1,0 +1,38 @@
+.DiscLine {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #dedede;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 2px 0;
+    cursor: pointer;
+}
+
+.DiscLine:hover {
+    background-color: #9fbee188;
+}
+
+.DiscLine>.DiscLine--Thumb {
+    display: flex;
+    justify-content: center;
+    width: 30%;
+    max-width: 200px;
+}
+
+.DiscLine>.DiscLine--Thumb>img {
+    width: 50%;
+}
+
+.DiscLine>.DiscLine--Name {
+    flex: 1;
+    font-weight: 700;
+    font-size: 20px;
+}
+
+.DiscLine>.DiscLine--Year {
+    color: #888;
+    font-weight: 700;
+    font-size: 16px;
+}

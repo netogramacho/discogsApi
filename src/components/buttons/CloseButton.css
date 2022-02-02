@@ -1,0 +1,11 @@
+.closeButton {
+    background-image: url('../../images/cross.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+    width: 15px;
+    height: 15px;
+    top: 0;
+    right: 0;
+    cursor: pointer;
+}

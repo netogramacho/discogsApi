@@ -1,0 +1,11 @@
+#search {
+    padding-left: 55px;
+    width: 300px;
+    font-size: 16px;
+    color: gray;
+    font-weight: bold;
+    background-image: url('../../images/magnifier.png');
+    background-repeat: no-repeat;
+    background-position: 10px center;
+    outline: 0;
+}
